@@ -1,2 +1,1 @@
-# sajt_razrada
-trenutno me zavrsavaju :)
+bez videa posto su preveliki da bi ih hostovao ovde :)
