@@ -1,1 +1,1 @@
-bez videa posto su preveliki da bi ih hostovao ovde :)
+bez full videa posto su preveliki da bi ih hostovao ovde :
