@@ -736,6 +736,7 @@ ul#navprojects .active{
     } 
     
     header nav.language{
+         padding-left:2%;
         position:absolute;
         right:130px;
         top:40px;
